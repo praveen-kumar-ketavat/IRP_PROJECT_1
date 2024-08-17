@@ -10,6 +10,7 @@
     background-size: cover;
     margin:5px;
     margin-bottom: 15px;
+    border-radius: 5px;
 }
 .container{
     width:100vw;
@@ -36,6 +37,7 @@
     color:#ECDFCC;
     padding:20px;
     backdrop-filter: blur(20px);
+    border-radius: 5px;
 }
 p{
     font-size:20px;
